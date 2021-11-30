@@ -17,6 +17,8 @@ En este ejemplo lo que se hace es establecer el valor de la variable “a” igu
 (https://github.com/tobiasiroa/pxt-sumardosnumeros)  ![](https://lh3.googleusercontent.com/G8tCo_nmUwBq7Gt1pS04EWIAlrq_P9QusSohFV-jHQ_rkjz16Po2GG_vBVocNnxT-KWAufxMU6YVpubprF3B8HMTHmOWNlJTKFxripyDM4RliKjqG5zlJjemLxHp0G6nmkvFNYh4)
     
 4.  Finalmente, tenemos nuestro bloque para sumar dos números.
+
+
 **![](https://lh6.googleusercontent.com/PTlToIDIPKHzLMuH_0eqBOGjjFGS9Xu4o2f-jLOPdklMBrXVxnp2bgDN_fK2om4k0L0a-opE7YjLc4RsnxcfVEE0mth8cwdu2N7chQWfwQyJi0_zq-TMMLGt_JrxDwhIVZKCM6oz)**
 
 > By: @tiroa & @blorenzo-ceibal
