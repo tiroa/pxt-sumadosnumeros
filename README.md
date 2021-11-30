@@ -22,6 +22,7 @@ En este ejemplo lo que se hace es establecer el valor de la variable “a” igu
 **![](https://lh6.googleusercontent.com/PTlToIDIPKHzLMuH_0eqBOGjjFGS9Xu4o2f-jLOPdklMBrXVxnp2bgDN_fK2om4k0L0a-opE7YjLc4RsnxcfVEE0mth8cwdu2N7chQWfwQyJi0_zq-TMMLGt_JrxDwhIVZKCM6oz)**
 
 > By: @tiroa & @blorenzo-ceibal
+> 
 > Nov 2021.
 > 
 > Written with [StackEdit](https://stackedit.io/).
